@@ -1,6 +1,15 @@
 .flex-container {
   background-color: #1f2937;
 }
+.container2 {
+  background-color: #3882f6;
+}
+.flex {
+  background-color: #3882f6;
+}
+.lastflex {
+  background-color: #e5e7eb;
+}
 .subtitle {
   font-size: 48px;
   font-weight: bold;
