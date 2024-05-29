@@ -6,7 +6,7 @@
 }
 
 .flex-container img {
-  float: right;
+  align-self: flex-end;
 }
 
 .container2 {
@@ -38,6 +38,7 @@ a {
 
 .links {
   justify-content: flex-end;
+  align-self: flex-end;
 }
 
 h2 {
