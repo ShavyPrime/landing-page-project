@@ -1,6 +1,11 @@
 .flex-container {
   background-color: #1f2937;
 }
+
+.flex-container img {
+  float: right;
+}
+
 .container2 {
   background-color: #3882f6;
 }
