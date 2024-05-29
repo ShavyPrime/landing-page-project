@@ -33,6 +33,7 @@
 a {
   font-size: 18px;
   color: #e5e7eb;
+  align-self: flex-end;
 }
 
 .links {
@@ -44,6 +45,7 @@ h2 {
   color: #f9faf8;
   align-self: flex-start;
   margin-top: 2px;
+  margin-right: 10px;
 }
 
 button {
