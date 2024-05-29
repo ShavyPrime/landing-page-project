@@ -35,6 +35,10 @@ a {
   color: #e5e7eb;
 }
 
+.links {
+  justify-content: flex-end;
+}
+
 h2 {
   font-size: 24px;
   color: #f9faf8;
