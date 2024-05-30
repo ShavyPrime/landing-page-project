@@ -10,6 +10,7 @@
 }
 
 .heading {
+  display: flex;
   justify-content: space-between;
 }
 .container2 {
@@ -40,6 +41,8 @@ a {
 }
 
 .links {
+  display: flex;
+  flex-direction: row;
   justify-content: flex-end;
   align-items: flex-start;
   }
