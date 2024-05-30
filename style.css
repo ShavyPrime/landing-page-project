@@ -9,6 +9,9 @@
   align-self: flex-end;
 }
 
+.heading {
+  align-items: flex-start;
+}
 .container2 {
   background-color: #3882f6;
 }
@@ -38,6 +41,7 @@ a {
 
 .links {
   justify-content: flex-end;
+  align-items: flex-start;
   }
 
 h2 {
