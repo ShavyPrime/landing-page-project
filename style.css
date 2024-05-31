@@ -12,10 +12,10 @@
   justify-content: space-evenly;
   }
 
-.flex-container img {
-  align-self: flex-end;
+.middle {
+  display: flex;
+  align-items: center;
 }
-
 
 .container2 {
   background-color: #3882f6;
