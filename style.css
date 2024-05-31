@@ -2,14 +2,20 @@
   background-color: #1f2937;
 }
 
-.flex-container img {
-  align-self: flex-end;
-}
-
 .heading {
   display: flex;
   justify-content: space-between;
 }
+
+.links {
+  display: flex;
+  }
+
+.flex-container img {
+  align-self: flex-end;
+}
+
+
 .container2 {
   background-color: #3882f6;
 }
@@ -37,12 +43,7 @@ a {
   align-self: flex-end;
 }
 
-.links {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: flex-start;
-  }
+
 
 h2 {
   font-size: 24px;
