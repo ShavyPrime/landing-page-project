@@ -17,6 +17,15 @@
   align-items: center;
 }
 
+.firstmid {
+  display: flex;
+  flex-direction: column;
+}
+
+.middle img {
+  align-self: flex-end;
+}
+
 .container2 {
   background-color: #3882f6;
 }
