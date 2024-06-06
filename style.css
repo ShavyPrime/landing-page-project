@@ -47,7 +47,8 @@
 }
 
 .flex {
-  background-color: #3882f6;
+  background-color: #e5e7eb;
+  
 }
 .lastflex {
   background-color: #e5e7eb;
@@ -89,7 +90,6 @@ h5 {
 }
 
 .review-page {
-  background-color: #e5e7eb;
   font-size: 36px;
   font-style: italic;
   font-weight: light;
